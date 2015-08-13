@@ -1,4 +1,4 @@
-<? php
-  echo "Hello World, This is Index.php";
-  
+<? php 
+	echo "nguknguk";
+	echo "Hello World, This is Index.php";`
 ?>
